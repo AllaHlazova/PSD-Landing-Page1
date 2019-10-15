@@ -1,0 +1,69 @@
+html {
+	font-size: 9px;
+}
+
+.p1 {
+	padding-bottom: 20px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.about-product {
+    width: 100%;
+}
+
+.product-name {
+  	display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.second-rectangle {
+	margin: auto;
+}
+
+.about-product > h2 {
+	text-align: center;
+}
+
+.Scrinshots > .flex-wrap {
+	flex-direction: column;	
+}
+
+.div-plus {
+	width: 100%;
+}
+
+.reviews > .flex-wrap {
+	display: flex;
+	flex-direction: column;
+}
+
+.child {
+	width: 100%;
+}
+
+.div-flex {
+	flex-direction: column;
+}
+
+.buybuy {
+	flex-direction: column;
+	align-items: center;
+	
+}
+
+.info-block1, .info-block2, .info-block3 {
+	margin: 3%;
+}
+
+.width {
+	width: 60%;
+}
+
+.circle {
+    width: 15%;
+    padding-bottom: 15%;
+}

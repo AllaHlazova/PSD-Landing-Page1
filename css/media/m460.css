@@ -1,0 +1,10 @@
+.icons > .display-flex > div {
+	width: 35%; 
+	padding-bottom: 35%;
+	margin: 6px;
+}
+
+.circle {
+    width: 25%;
+    padding-bottom: 25%;
+}

@@ -1,0 +1,41 @@
+body {
+	font-size: 12px;
+}
+
+.info-block1, .info-block2, .info-block3 {
+	margin: 20px;
+}
+
+.srcnts-div {
+	flex-direction: column-reverse;
+	width: 100%;
+}
+
+.srcnts-img {
+	max-width: 200px;
+	max-height: 150px;
+	margin: auto;
+}
+
+.padding-right {
+	text-align: left;
+	width: 100%
+}
+
+.flex-wrap {
+	align-items: center;
+}
+
+.icons > .display-flex > div {
+	width: 30%; 
+	padding-bottom: 30%;
+}
+
+.padding-right {
+	text-align: center;
+}
+
+.circle {
+    width: 20%;
+    padding-bottom: 20%;
+}
